@@ -1,1 +1,1 @@
-cout << rev <<endl;
+cout << "the sum is:" << sum << end
