@@ -1,3 +1,4 @@
+// if the data type is in the charcter form then the pointer is in the form of charcter also //
 // In this for making the pointer null so we use {{nullptr}} instead of using [NULL] and to making it pointer we use to do deletion in array first//
 # include <iostream>
 using namespace std;
