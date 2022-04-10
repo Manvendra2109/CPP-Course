@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main()
-{
+{   
     char m,n;
     cout << "Enter the case number:";
     cin >> m;
