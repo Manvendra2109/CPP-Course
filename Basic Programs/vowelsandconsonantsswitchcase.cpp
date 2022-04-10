@@ -2,27 +2,27 @@
 using namespace std;
 int main()
 {
-    int m,n;
+    char m,n;
     cout << "Enter the case number:";
     cin >> m;
     switch (m)
     {
-    case (1):
-    cout << "a" << " is vowel " << endl;
+        case (97):
+        cout << "a" << " is vowel " << endl;
         break;
-        case (2):
+        case (102):
         cout << "e" << " is vowel" << endl;
         break;
-        case (3):
+        case (105):
         cout << "i" << " is vowel" << endl;
         break;
-        case (4):
+        case (111):
         cout << "o" << " is vowel" << endl;
         break;
-        case (5):
+        case (117):
         cout << "u" << " is vowel" << endl;    
-    default:
-    cout << "other are consonants:";
+        default:
+            cout << "other are consonants:";
         break;
         return 0;
     }
