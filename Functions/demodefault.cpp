@@ -12,7 +12,7 @@ void swap ( int x, int y)
 }
 int main ()
 {
-    int x=10;
+    int x=25;
     int y=20;
     swap(x,y);
     cout << x << " " << y<< endl;
