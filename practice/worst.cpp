@@ -38,7 +38,7 @@ void worstFit(int blockSize[], int m, int processSize[],
 }
 int main()
 {
-    int blockSize[] = {100, 500, 200, 300, 600};
+    int blockSize[] = {100, 500, 400,100,  600};
     int processSize[] = {212, 417, 112, 426};
     int m = sizeof(blockSize)/sizeof(blockSize[0]);
     int n = sizeof(processSize)/sizeof(processSize[0]);
