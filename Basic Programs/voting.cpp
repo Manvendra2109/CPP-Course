@@ -8,7 +8,7 @@ int main()
     if (n >= 18)
     cout << "eligible for voting:";
     else 
-    cout << "not eligible for voting";
+    cout << "not eligible   for voting";
     return 0;
 
 }
