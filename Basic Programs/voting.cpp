@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int n;
-    cout << "Enter the age of the candidate:";
+    cout << "Mention the age of the candidate:";
     cin >> n;
     if (n >= 18)
     cout << "eligible for voting:";
