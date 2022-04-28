@@ -3,8 +3,8 @@
 using namespace std;
 int * func()
 {
-    int*p=new int[5];
-    for(int i=0; i<5; i++)
+    int*p=new int[6];
+    for(int i=0; i<6; i++)
     {
         p[i]=5*i;
     }
@@ -14,7 +14,7 @@ int main ()
 {
     int*q=func();
     cout << q << endl;
-    for(int i=0; i<5; i++)
+    for(int i=0; i<6; i++)
     cout << q[i] << endl;
 
 }
