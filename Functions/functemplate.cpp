@@ -12,7 +12,7 @@ T maxim(T x,T y)
 int main ()
 {
     int c=maxim(10,7);
-    float d=maxim(5.5f,6.5f);
+    float d=maxim(5.5556f,6.5f);
     cout << c<<endl;
     cout << d << endl;
     return 0;
