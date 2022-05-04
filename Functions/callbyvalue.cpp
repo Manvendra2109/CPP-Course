@@ -11,7 +11,7 @@ b=temp;
 }
 int main ()
 {
-    int a=10,b=20;
+    int a=10,b=30;
     swap (a,b);
     cout << a <<" " << b;
     return 0;
