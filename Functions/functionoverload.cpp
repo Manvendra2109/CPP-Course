@@ -15,7 +15,7 @@ int sum (int a, int b, int c)
 }
 int main ()
 {
-    cout << sum(12,5) << endl;
+    cout << sum(12,7) << endl;
     cout << sum (6.56657f,0.987678f) << endl;
     cout << sum(5,6,7)  << endl;
 
