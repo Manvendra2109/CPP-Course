@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
-int & fun (int &a)
+int & fun (int &b)
 {
-    cout << a;
-    return a;
+    cout << b;
+    return b;
 }
 main ()
 {
