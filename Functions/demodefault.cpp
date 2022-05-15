@@ -6,7 +6,7 @@ void swap ( int x, int y)
     int temp;
     temp =x;
     x=y;
-    y=temp;
+    y =temp;
     cout << x << " " << y << endl;
 
 }
